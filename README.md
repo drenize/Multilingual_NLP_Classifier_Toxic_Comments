@@ -1,4 +1,4 @@
-# Don't Be Evil
+# Tox Comments Clasffier
 ## Detecting toxic online comments using natural language processing 
 ### Data Sience Capstone Project 
 
