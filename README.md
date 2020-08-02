@@ -19,4 +19,4 @@ In order to achieve this, I decided to go with pretrained RNN models like [Disti
 
 # Data
 
-Google abd Jugsaw provided the dataset for a kaggle competition. The data can be downloaded [here](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/overview).
+Google and Jugsaw provided the dataset for a kaggle competition. The data can be downloaded [here](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/overview).
