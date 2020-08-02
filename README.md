@@ -16,3 +16,7 @@ The goal of this project is to build a natural language model that classifies te
 
 # Methods
 In order to achieve this, I decided to go with pretrained RNN models like [DistilBERT](https://huggingface.co/distilbert-base-multilingual-cased) and [LASER](https://research.fb.com/downloads/laser-language-agnostic-sentence-representations/), which include a variety of languages.
+
+# Data
+
+Google abd Jugsaw provided the dataset for a kaggle competition. The data can be downloaded [here](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/overview).
