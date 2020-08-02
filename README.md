@@ -1,4 +1,4 @@
-# Toxic Comments Clasffier
+# Toxic Comments Classifier
 ## Detecting toxic online comments using natural language processing 
 ### Data Sience Capstone Project 
 
