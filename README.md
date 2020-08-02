@@ -8,7 +8,7 @@ This project is still in progress.
 
 # INTERNET RULE #1: Never read the comments.
 
-How is it possiblethat the very democratic element of the internet - the comment section - has been turned into a tool of cruelty by so called *trolls*?
+How is it possible that the very democratic element of the internet - the comment section - has been turned into a tool of cruelty by so called *trolls*?
 
 # Objective 
 
