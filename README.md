@@ -19,5 +19,5 @@ In order to achieve this, I decided to go with pretrained RNN models like [Disti
 
 # Data
 
-Google and Jigsaw provided the dataset for a kaggle competition. The data can be downloaded [here](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/overview).
+Google and Jigsaw provided the dataset for a kaggle competition. The data can be downloaded [here](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/overview).<br/>
 *Disclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive.*
