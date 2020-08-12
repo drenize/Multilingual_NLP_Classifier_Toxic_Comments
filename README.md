@@ -1,4 +1,4 @@
-# Identifying Toxic Comments on the Internet
+# Discussion Detox
 ## Multilingual natural language processing with deep learning neural networks 
 #### Data Sience Capstone Project with the [Neue Fische](https://www.neuefische.de/) school and pool for digital talent.
 
@@ -32,3 +32,14 @@ The work process follows the data science lifecycle with adjustments:
 + Feature Engineering
 + Predictive Modeling 
 + Data Visualization
+
+# Filed included:
+1_EDA_Toxic_Comments
+2_Feature_Engineering_Part2_Toxic_Comments
+3_Baseline Model_Logistic_Regression_Toxic_Comments
+4_Pipeline_Ensemble_Methods_Classic_Classifiers
+5_LSTM_Model_with_GloVe_Toxic_Comments
+6_Predictive_Modelling_with_BERT_multilingual
+7_Predictive_Modelling_with_LASER_multilingual
+Presentation Slides
+
