@@ -35,12 +35,12 @@ The work process follows the data science lifecycle with adjustments:
 + Data Visualization
 
 # Files included:
-1_EDA_Toxic_Comments <br\>
-2_Feature_Engineering_Part2_Toxic_Comments <br\>
-3_Baseline Model_Logistic_Regression_Toxic_Comments<br\>
-4_Pipeline_Ensemble_Methods_Classic_Classifiers<br\>
-5_LSTM_Model_with_GloVe_Toxic_Comments<br\>
-6_Predictive_Modelling_with_BERT_multilingual<br\>
-7_Predictive_Modelling_with_LASER_multilingual<br\>
-Presentation Slides<br\>
+1_EDA_Toxic_Comments <br/>
+2_Feature_Engineering_Part2_Toxic_Comments <br/>
+3_Baseline Model_Logistic_Regression_Toxic_Comments<br/>
+4_Pipeline_Ensemble_Methods_Classic_Classifiers<br/>
+5_LSTM_Model_with_GloVe_Toxic_Comments<br/>
+6_Predictive_Modelling_with_BERT_multilingual<br/>
+7_Predictive_Modelling_with_LASER_multilingual<br/>
+Presentation Slides<br/>
 
