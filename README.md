@@ -33,7 +33,7 @@ The work process follows the data science lifecycle with adjustments:
 + Predictive Modeling 
 + Data Visualization
 
-# Filed included:
+# Files included:
 1_EDA_Toxic_Comments
 2_Feature_Engineering_Part2_Toxic_Comments
 3_Baseline Model_Logistic_Regression_Toxic_Comments
