@@ -1,5 +1,6 @@
 # Discussion Detox
-## Multilingual natural language processing with deep learning neural networks 
+## Multilingual Machine Learning algorithms to identify toxic comments on the internet
+
 #### Data Sience Capstone Project with the [Neue Fische](https://www.neuefische.de/) school and pool for digital talent.
 
 This project is still in progress. 
