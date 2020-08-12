@@ -16,7 +16,7 @@ How is it possible that the very democratic element of the internet - the commen
 The goal of this project is to build a natural language model that classifies text input (social media comments) into toxic and non-toxic catetegories in multiple languages.
 
 # Methods
-In order to achieve this, I decided to go with pretrained RNN models like [DistilBERT](https://huggingface.co/distilbert-base-multilingual-cased) and [LASER](https://research.fb.com/downloads/laser-language-agnostic-sentence-representations/), which include a variety of languages.
+In order to achieve this, I decided to go with pretrained representations like GloVE, [DistilBERT](https://huggingface.co/distilbert-base-multilingual-cased) and [LASER](https://research.fb.com/downloads/laser-language-agnostic-sentence-representations/). As a baseline model I chose logistic regression as a binary classifier. Furthermore, I deploeyed recurrent neural networks, particularly LSTM models, which are considered best suited for NLP tasks.
 
 # Data
 
