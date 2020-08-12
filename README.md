@@ -22,7 +22,7 @@ In order to achieve this, I decided to go with pretrained RNN models like [Disti
 Google and Jigsaw provided the dataset for a kaggle competition. The data can be downloaded [here](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/overview).<br/>
 *Disclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive.*
 
-#Data Science Lifecycle
+# Data Science Lifecycle
 
 The work process follows the data science lifecycle with adjustments:
 + Business Understanding
