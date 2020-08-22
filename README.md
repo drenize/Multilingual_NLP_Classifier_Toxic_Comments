@@ -41,6 +41,7 @@ The work process follows the data science lifecycle with adjustments:
 4_Pipeline_Ensemble_Methods_Classic_Classifiers<br/>
 5_LSTM_Model_with_GloVe_Toxic_Comments<br/>
 6_Predictive_Modelling_with_BERT_multilingual<br/>
+6.1_BERT_multilingual_downsized_data.ipynb<br/>
 7_Predictive_Modelling_with_LASER_multilingual<br/>
 Presentation Slides<br/>
 
