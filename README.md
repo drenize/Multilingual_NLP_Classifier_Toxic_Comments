@@ -44,4 +44,4 @@ The work process follows the data science lifecycle with adjustments:
 6.1_BERT_multilingual_downsized_data.ipynb<br/>
 7_Predictive_Modelling_with_LASER_multilingual<br/>
 Presentation Slides<br/>
-
+8_nlp_preprocessing_for_AutoML_in_GCP.ipynb<br/>
